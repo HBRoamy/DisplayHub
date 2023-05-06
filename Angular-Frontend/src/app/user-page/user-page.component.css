@@ -1,0 +1,16 @@
+.card-color {
+    background-color: #34495e;
+}
+
+.card-font {
+    font-family: 'Raleway', sans-serif;
+}
+
+.font-mont {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.table td {
+    border-bottom: 1px solid rgb(59, 59, 59) !important;
+}
+

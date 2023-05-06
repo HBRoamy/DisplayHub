@@ -1,0 +1,10 @@
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\bin\Debug\netcoreapp3.1\SharedLayer.deps.json
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\bin\Debug\netcoreapp3.1\SharedLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\bin\Debug\netcoreapp3.1\SharedLayer.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.csproj.AssemblyReference.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.AssemblyInfoInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.AssemblyInfo.cs
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\SharedLayer\obj\Debug\netcoreapp3.1\SharedLayer.pdb

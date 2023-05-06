@@ -1,0 +1,9 @@
+#imgCard::-webkit-scrollbar {
+    width: 0 !important
+}
+
+
+/* .imgCard:hover > .interactionPanel
+{
+    display: block;
+} */

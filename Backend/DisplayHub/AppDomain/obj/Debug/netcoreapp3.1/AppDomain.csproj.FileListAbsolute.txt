@@ -1,0 +1,16 @@
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.csproj.AssemblyReference.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.AssemblyInfoInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.AssemblyInfo.cs
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\AppDomain.deps.json
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\AppDomain.runtimeconfig.json
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\AppDomain.runtimeconfig.dev.json
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\AppDomain.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\AppDomain.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.genruntimeconfig.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\SharedLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\bin\Debug\netcoreapp3.1\SharedLayer.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\AppDomain\obj\Debug\netcoreapp3.1\AppDomain.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\AppDomain.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\SharedLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\AppDomain.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\bin\Debug\netcoreapp3.1\SharedLayer.pdb
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\harshitbhardwaj\source\repos\DisplayHub\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
